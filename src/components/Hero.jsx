@@ -52,7 +52,7 @@ const Hero = () => {
         <a href="#highlights" className="btn">
           Kupi
         </a>
-        <p className="font-normal text-xl">Od $199/mjesec ili $999</p>
+        <p className="font-normal text-xl">Od €85/mjesec ili €1020</p>
       </div>
     </section>
   );
