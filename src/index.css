@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 * {
   margin: 0;
   padding: 0;
@@ -22,7 +23,7 @@ canvas {
   touch-action: none;
 }
 
-.scrim-max-width {
+.screen-max-width {
   margin-inline-start: auto;
   margin-inline-end: auto;
   position: relative;
